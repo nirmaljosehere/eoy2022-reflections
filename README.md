@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--eoy2022-reflections--nirmaljosehere.hlx.page/
+- Live: https://main--eoy2022-reflections--nirmaljosehere.hlx.live/
 
 ## Installation
 
